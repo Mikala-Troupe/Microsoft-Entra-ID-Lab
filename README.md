@@ -94,7 +94,7 @@ This includes:
 | 4 | Updating User Properties | ![User Properties](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/a3beb9712c2628fd7cacbb7ab96436183e42e22a/Pasted%20image%2020251024172753.png) |
 | 5 | Reset Password | ![Reset Password](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/7954d81f55c9ca73ce0cc81af237e0749ddca7dc/Pasted%20image%2020251024173701.png) |
 | 6 | Revoke Sessions | ![Revoke Sessions](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/4f82f4cfaa5e012de2653aa23619053b5e222fe6/Pasted%20image%2020251024173805.png) |
-| 7 | Deleted User | ![Deleted User](./screenshots/7-deleted-user.png) |
+| 7 | Deleted User | ![Deleted User](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/d8ecc17559b8b033f61eec151a16ef5b5c0d8e2e/Pasted%20image%2020251024174158.png) |
 | 8 | Deleted Users List | ![Deleted Users List](./screenshots/8-deleted-users-list.png) |
 ---
 
