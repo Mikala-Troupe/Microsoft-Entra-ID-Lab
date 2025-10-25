@@ -89,7 +89,7 @@ This includes:
 | # | Description | Screenshot |
 |:-:|--------------|-------------|
 | 1 | Entra ID Overview | ![Entra ID Overview](./screenshots/1-entra-id-overview.png) |
-| 2 | Entra ID User Creation Page | ![Create User](./screenshots/2-create-user.png) |
+| 2 | Entra ID User Creation Page | [![Create User] [(img](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/main/Pasted%20image%2020251024171941.png?raw=true) |
 | 3 | Created Users List | ![Created Users](./screenshots/3-created-users.png) |
 | 4 | Updating User Properties | ![User Properties](./screenshots/4-update-properties.png) |
 | 5 | Reset Password | ![Reset Password](./screenshots/5-reset-password.png) |
