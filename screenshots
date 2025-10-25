@@ -1,3 +1,10 @@
 # Images in ReadMe
 
-![]https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/raw/9145900e3bf72339e91a6932a033dd9b9b6a7a94/Pasted%20image%2020251024174433.png
+    ├── 1-entra-id-overview.png
+    ├── 2-create-user.png
+    ├── 3-created-users.png
+    ├── 4-update-properties.png
+    ├── 5-reset-password.png
+    ├── 6-revoke-sessions.png
+    ├── 7-deleted-user.png
+    └── 8-deleted-users-list.png
