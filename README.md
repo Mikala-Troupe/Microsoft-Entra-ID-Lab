@@ -91,7 +91,7 @@ This includes:
 | 1 | Entra ID Overview | ![Entra ID Overview](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/9145900e3bf72339e91a6932a033dd9b9b6a7a94/Pasted%20image%2020251024174433.png) |
 | 2 | Entra ID User Creation Page | [![Create User](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/main/Pasted%20image%2020251024171941.png?raw=true) |
 | 3 | Created Users List | ![Created Users](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/53b9b2f4c066a1790abafc5e600a01734f22b854/Pasted%20image%2020251024172408.png) |
-| 4 | Updating User Properties | ![User Properties](./screenshots/4-update-properties.png) |
+| 4 | Updating User Properties | ![User Properties](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/a3beb9712c2628fd7cacbb7ab96436183e42e22a/Pasted%20image%2020251024172753.png) |
 | 5 | Reset Password | ![Reset Password](./screenshots/5-reset-password.png) |
 | 6 | Revoke Sessions | ![Revoke Sessions](./screenshots/6-revoke-sessions.png) |
 | 7 | Deleted User | ![Deleted User](./screenshots/7-deleted-user.png) |
