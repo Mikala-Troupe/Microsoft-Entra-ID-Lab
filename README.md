@@ -89,7 +89,7 @@ This includes:
 | # | Description | Screenshot |
 |:-:|--------------|-------------|
 | 1 | Entra ID Overview | ![Entra ID Overview](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/9145900e3bf72339e91a6932a033dd9b9b6a7a94/Pasted%20image%2020251024174433.png) |
-| 2 | Entra ID User Creation Page | [![Create User](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/d38ddd777c2876a50755ddf555f2900ee05f1366/screenshots/UserOne.png) |
+| 2 | Entra ID User Creation Page | ![Create User](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/d38ddd777c2876a50755ddf555f2900ee05f1366/screenshots/UserOne.png) |
 | 3 | Created Users List | ![Created Users](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/53b9b2f4c066a1790abafc5e600a01734f22b854/Pasted%20image%2020251024172408.png) |
 | 4 | Updating User Properties | ![User Properties](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/a3beb9712c2628fd7cacbb7ab96436183e42e22a/Pasted%20image%2020251024172753.png) |
 | 5 | Reset Password | ![Reset Password](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/blob/7954d81f55c9ca73ce0cc81af237e0749ddca7dc/Pasted%20image%2020251024173701.png) |
